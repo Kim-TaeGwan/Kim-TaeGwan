@@ -1,5 +1,8 @@
+### Hello! Myname in KimTaegwan 👋
+
 <a href="https://www.instagram.com/k.taegwan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:rlaxorhks154@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlaxorhks154@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 <!--
 **Kim-TaeGwan/Kim-TaeGwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +19,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- ### 🤞 Nice way to meet me -->
+
 <p>
-   👋&nbsp; Hi there! I'm <b>Front-end developer</b> skilled in React🚀<br/>
+   👋&nbsp; Hi there! I'm <b>Front-end developer</b> skilled in React.🚀<br/>
 </p>
 
 ### 💪 Skills
