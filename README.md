@@ -2,6 +2,7 @@
 
 <a href="https://www.instagram.com/k.taegwan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:rlaxorhks154@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlaxorhks154@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://taegwan.dev/" target="_blank"><img src="https://img.shields.io/badge/Blog-https%3A%2F%2Ftaegwan.dev-white"/></a>
 
 <!--
 **Kim-TaeGwan/Kim-TaeGwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
