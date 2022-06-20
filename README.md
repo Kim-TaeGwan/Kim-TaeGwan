@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/rlaxorhks154@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="mailto:rlaxorhks154@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlaxorhks154@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!--
 **Kim-TaeGwan/Kim-TaeGwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
