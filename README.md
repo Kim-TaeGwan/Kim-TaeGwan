@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- ### 🤞 Nice way to meet me -->
 
 <p>
-   👋&nbsp; Hi there! I'm <b>Front-end developer</b> skilled in React.🚀<br/>
+   👋&nbsp; Hi there! I'm <b>Front-end developer</b> skilled in React.🚀<br/><br/>
 </p>
 
 ### 💪 Skills
