@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🤞 Nice way to meet me
+<p>
+   👋&nbsp; Hi there! I'm <b>Front-end developer</b> skilled in React🚀<br/>
+</p>
+
 ### 💪 Skills
 #### Platforms & Languages
 <p>
